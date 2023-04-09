@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Simple-Robot-App/static/css/main.35bb44f9.css",
+    "main.js": "/Simple-Robot-App/static/js/main.ed5a5e31.js",
+    "static/media/SEGA.woff": "/Simple-Robot-App/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Simple-Robot-App/index.html",
+    "main.35bb44f9.css.map": "/Simple-Robot-App/static/css/main.35bb44f9.css.map",
+    "main.ed5a5e31.js.map": "/Simple-Robot-App/static/js/main.ed5a5e31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35bb44f9.css",
+    "static/js/main.ed5a5e31.js"
+  ]
+}
